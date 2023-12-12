@@ -1,11 +1,13 @@
 # Hello, World! I'm Federico Palou 🌟
 
 ## 🚀 About Me
-👨‍💻 I'm a Junior Full-Stack developer with a passion for reading.
-🎓 Graduated from [Your University] with a degree in [Your Degree].
+👨‍💻 I'm a Junior Full-Stack developer with a passion for reading fantasy and science fiction.
+
+🎓 Recently completed Le Wagon's bootcamp on web development.
+
 🌱 Currently sharpening my skills in Hotwire.
+
 🎯 2024 Goals: Comfy and green setup.
-🎉 Fun Fact: [Interesting fact about you].
 
 
 ## 🛠️ Tech Stack
@@ -24,34 +26,23 @@
 - **Databases**: ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-%23336791?logo=postgresql&logoColor=white)
 
 
-
-
-
-
-
-## 🌐 Latest Blog Posts
-- [Blog Post Title](Blog Post URL)
-- [Another Blog Post](Blog Post URL)
-- [More Blog Posts](Your Blog URL)
-
 ## 🎨 Highlighted Projects
-- **[Project Name]**: Description - [🔗 Link]()
-- **[Another Project Name]**: Description - [🔗 Link]()
+- **[Beatween]**: A Web App designed to socialize music with friends. Create playlists together, see what they are up to and discover new music. For spotify users. - [🔗 Link](https://github.com/thefrenchmessiah/beatween)
+- **[Dimensional Haul]**: A fun take on what it would be to browse and rent dimensions, for recreation purposes ofcourse - [🔗 Link](https://github.com/fpalou/Dimensional_Haul)
 - [Add more as needed]
 
 ## 📫 Connect with Me
-- LinkedIn: [Your LinkedIn](Your LinkedIn URL)
-- Twitter: [Your Twitter](Your Twitter URL)
-- Email: [your.email@example.com](mailto:your.email@example.com)
+- LinkedIn: [Federico Palou](https://www.linkedin.com/in/federicopalou/)
+- Email: [federicopalou@gmail.com](mailto:federicopalou@gmail.com)
 
 ## 📊 My GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=fpalou&show_icons=true&theme=radical)
 
 ## 📝 Latest GitHub Activity
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
 ## 📜 View My Resume
-- [Click here to view my resume](Link to your CV)
+- [Click here to view my resume](./Federico_Palou_CV_FS.pdf)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fpalou&layout=compact)
