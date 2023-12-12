@@ -7,7 +7,7 @@
 
 🌱 Currently sharpening my skills in Hotwire.
 
-🎯 2024 Goals: Comfy and green setup.
+🎯 2024 Goals: Stable job, comfy setup with lots of green.
 
 
 ## 🛠️ Tech Stack
@@ -29,7 +29,6 @@
 ## 🎨 Highlighted Projects
 - **[Beatween]**: A Web App designed to socialize music with friends. Create playlists together, see what they are up to and discover new music. For spotify users. - [🔗 Link](https://github.com/thefrenchmessiah/beatween)
 - **[Dimensional Haul]**: A fun take on what it would be to browse and rent dimensions, for recreation purposes ofcourse - [🔗 Link](https://github.com/fpalou/Dimensional_Haul)
-- [Add more as needed]
 
 ## 📫 Connect with Me
 - LinkedIn: [Federico Palou](https://www.linkedin.com/in/federicopalou/)
