@@ -16,7 +16,7 @@
 ![SASS](https://img.shields.io/badge/-SASS-%23CC6699?logo=sass&logoColor=white)
 
 - **Frameworks/Libraries**: ![Ruby on Rails](https://img.shields.io/badge/-Ruby_on_Rails-%23CC0000?logo=ruby-on-rails&logoColor=white)
-- ![Hotwire](https://img.shields.io/badge/-Hotwire-%23DD4B25?logo=hotwire&logoColor=white)
+![Hotwire](https://img.shields.io/badge/-Hotwire-%23DD4B25?logo=hotwire&logoColor=white)
 
 - **Tools & Technologies**: ![Git](https://img.shields.io/badge/-Git-%23F05032?logo=git&logoColor=white)
 ![Heroku](https://img.shields.io/badge/-Heroku-%23430098?logo=heroku&logoColor=white)
