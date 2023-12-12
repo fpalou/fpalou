@@ -43,6 +43,6 @@
 <!--END_SECTION:activity-->
 
 ## 📜 View My Resume
-- [Click here to view my resume](./Federico Palou CV FS.pdf)
+- [Click here to view my resume](https://github.com/fpalou/fpalou/blob/766e006415fe6a55c00fba4534887b7def2abf22/Federico%20Palou%20CV%20FS.pdf)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fpalou&layout=compact)
