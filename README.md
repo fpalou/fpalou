@@ -1,11 +1,11 @@
-# Hello, World! I'm Federico Palou 🌟
+# Hello! I'm Federico Palou 🌟
 
 ## 🚀 About Me
 👨‍💻 I'm a Junior Full-Stack developer with a passion for reading fantasy and science fiction.
 
 🎓 Recently completed Le Wagon's bootcamp on web development.
 
-🌱 Currently sharpening my skills in Hotwire.
+🌱 Currently sharpening my skills in Azure Developer and React.
 
 🎯 2024 Goals: Stable job, comfy setup with lots of green.
 
